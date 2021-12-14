@@ -1,0 +1,48 @@
+{
+    "name": "f",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.24",
+        "tag": "v1.7.24",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e7bd2e723209fb725f6274543dab7aa940537364",
+        "target": "1.7.24",
+        "pxt": "7.3.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#D97A57",
+        "#ED1C24",
+        "#FDE8F2",
+        "#D6EFF3",
+        "#558af5",
+        "#13662C",
+        "#FFDF0F",
+        "#C863CA",
+        "#FFBA16",
+        "#592508",
+        "#974B21",
+        "#DEBAA7",
+        "#FC6226",
+        "#030202",
+        "#ffffff"
+    ]
+}
